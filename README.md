@@ -13,6 +13,7 @@
 11	Terraform Cloud API  
 12	Automating Terraform Cloud Functions  
 13	Terraform Cloud Drift Detection   
+
 ===================================================== 
 
 **Module 1 – Terraform Cloud Fundamentals**
