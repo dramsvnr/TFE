@@ -81,25 +81,25 @@ Code → Git Push
 
 ✅Centralized State
 
-No backend misconfig
-Automatic locking
-Version history
+No backend misconfig  
+Automatic locking  
+Version history  
 
 ✅Secure Execution
 
-Terraform runs in controlled environment
-Secrets never leave the platform
+Terraform runs in controlled environment  
+Secrets never leave the platform  
 
 ✅Pipeline-Friendly
 
-Native GitOps model
-PR-based workflows
-No custom Jenkins pipelines needed
+Native GitOps model  
+PR-based workflows  
+No custom Jenkins pipelines needed  
 
 ✅Audit & Compliance
 
-Every change logged
-Who planned?
-Who applied?
-What changed?
+Every change logged  
+Who planned?  
+Who applied?  
+What changed?  
 
