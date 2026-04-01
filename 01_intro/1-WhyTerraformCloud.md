@@ -42,6 +42,7 @@ No compliance enforcement
 
 
 Note : **“Terraform worked great for individuals—but broke down for teams.”**  
+
 ---
 
 2. **Why DevOps Teams Needed Terraform Cloud**
@@ -54,7 +55,8 @@ Enforce governance
 Improve security  
 Integrate with CI/CD  
 
-Imp: Terraform Cloud is a platform for running Terraform safely at scale.  
+Imp: Terraform Cloud is a platform for running Terraform safely at scale.
+
 --- 
 
 4.  How Terraform Cloud Changes the Workflow  
@@ -64,13 +66,15 @@ Imp: Terraform Cloud is a platform for running Terraform safely at scale.
 Code → terraform apply → Hope it worked
 ``
 
-*After (Terraform Cloud)*
+*After (Terraform Cloud)*  
+
 ``
-Code → Git Push
-     → Remote Plan
-     → Review & Approval
-     → Apply
-     → Audited State Update
+Code → Git Push  
+     → Remote Plan  
+     → Review & Approval  
+     → Apply  
+     → Audited State Update  
+     
 ``
 ---
 **Key Benefits for DevOps Engineers**
