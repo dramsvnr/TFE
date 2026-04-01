@@ -74,8 +74,8 @@ Code → Git Push
      → Review & Approval  
      → Apply  
      → Audited State Update  
-     
-``
+`` 
+
 ---
 **Key Benefits for DevOps Engineers**
 
