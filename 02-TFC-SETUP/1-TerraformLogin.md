@@ -11,7 +11,7 @@ https://app.terraform.io/
 On the login page, click Sign up  
 This is used for new users  
 🔔 Existing users should click Sign in instead  
-![Terraform Cloud SignUp](images/1.png)
+![Terraform Cloud SignUp]<img src="images/1.png" width="400" height="250">
 
 **Step 3: Choose Sign‑Up Method**  
 Terraform Cloud provides two sign‑up options:  
