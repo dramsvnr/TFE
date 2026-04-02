@@ -11,6 +11,7 @@ https://app.terraform.io/
 On the login page, click Sign up  
 This is used for new users  
 🔔 Existing users should click Sign in instead  
+![Terraform Cloud SignUp](images/1.png)
 
 **Step 3: Choose Sign‑Up Method**  
 Terraform Cloud provides two sign‑up options:  
@@ -48,10 +49,10 @@ Holds:
 - Policies  
 - State files  
 *Two Options:*  
-Option A: Create a New Organization (Most Common)  
+**Option A:** Create a New Organization (Most Common)  
 Enter organization name  
 Example: devops-training-org  or Techlines-org  
-Option B: Join Existing Organization  
+**Option B:** Join Existing Organization  
 Requires invite from admin  
 ---  
 
