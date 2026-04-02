@@ -47,8 +47,7 @@ Holds:
 - Teams  
 - Policies  
 - State files  
-
-Two Options:  
+*Two Options:*  
 Option A: Create a New Organization (Most Common)  
 Enter organization name  
 Example: devops-training-org  or Techlines-org  
