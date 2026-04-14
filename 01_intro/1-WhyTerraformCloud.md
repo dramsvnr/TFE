@@ -8,10 +8,14 @@ Typical Terraform OSS Setup
 
 ``
 Engineer Laptop.   
-          ├── terraform apply.   
-          ├── state stored locally or S3 or AzureStorage or anyother cloudStorage    
+          ├── terraform apply. 
+
+          ├── state stored locally or S3 or AzureStorage or anyother cloudStorage  
+
           ├── credentials in env vars     
+
           └── no centralized control    
+          
 ``
 
 **Real Problems DevOps Teams Faced**
