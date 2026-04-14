@@ -1,5 +1,4 @@
-## Module 1 – Topic 1
-**What Problem Terraform Cloud Solves (DevOps View)**
+## Module 1 – What Problem Terraform Cloud Solves (DevOps View)**
 
 ----
 
@@ -9,33 +8,33 @@ Typical Terraform OSS Setup
 
 ``
 Engineer Laptop.   
- ├── terraform apply.   
- ├── state stored locally or S3 or AzureStorage or anyother cloudStorage    
- ├── credentials in env vars     
- └── no centralized control    
+          ├── terraform apply.   
+          ├── state stored locally or S3 or AzureStorage or anyother cloudStorage    
+          ├── credentials in env vars     
+          └── no centralized control    
 ``
 
 **Real Problems DevOps Teams Faced**
 
-- State File Issues  
+- **State File Issues**  
 
      State stored locally → lost / corrupted  
      S3/AzureStorage backend misconfiguration  
      State locking failures  
 
-- No Team Collaboration  
+- **No Team Collaboration**  
 
      Two engineers running apply at same time  
      No visibility on who changed what  
      No approval workflows  
 
-- Security Risks  
+- **Security Risks**  
 
      Secrets in .tfvars  
      Credentials on laptops  
      No audit trail  
 
-- No Governance  
+- **No Governance**  
 
      Anyone can provision anything  
      No policy guardrails  
@@ -46,7 +45,7 @@ Note : **“Terraform worked great for individuals—but broke down for teams.�
 
 ---
 
-2. **Why DevOps Teams Needed Terraform Cloud**
+**2.Why DevOps Teams Needed Terraform Cloud**
 
 Terraform Cloud was built to solve operational Terraform problems, not language problems.  
 **Core Goals**
@@ -60,9 +59,10 @@ Imp: Terraform Cloud is a platform for running Terraform safely at scale.
 
 --- 
 
-4.  How Terraform Cloud Changes the Workflow  
+**3.How Terraform Cloud Changes the Workflow**  
 
-*Before (Local Terraform)*
+*Before (Local Terraform)*  
+
 ``
 Code → terraform apply → Hope it worked
 ``
@@ -78,7 +78,7 @@ Code → Git Push
 `` 
 
 ---
-**Key Benefits for DevOps Engineers**
+**4.Key Benefits for DevOps Engineers**
 
 ✅Centralized State
 
